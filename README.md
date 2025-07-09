@@ -25,15 +25,19 @@ The project includes several visualizations to explore and understand the data:
 
 1. Exploratory Data Analysis
 SALES-FORECASTING-FOR-A-RETAIL-CHAIN\Outputs\output 1.png
+![image](https://github.com/user-attachments/assets/e5abecdd-2c4c-4f37-9ce1-97683b851e85)
 
-2. Store anaylysis
+2. Store analysis
 SALES-FORECASTING-FOR-A-RETAIL-CHAIN\Outputs\output 2.png
+![image](https://github.com/user-attachments/assets/26717e23-2593-4d56-8908-bc2d9e408b5b)
 
-3. Model Evaluation and analysis
+3. Model Evaluation and Analysis
 SALES-FORECASTING-FOR-A-RETAIL-CHAIN\Outputs\output 3.png
+![image](https://github.com/user-attachments/assets/886567b9-f020-4073-85bf-04b0ab01f55c)
 
 4. Feature Importance
 SALES-FORECASTING-FOR-A-RETAIL-CHAIN\Outputs\output 4.png
+![image](https://github.com/user-attachments/assets/7f2d11fa-3883-46d0-9409-0122ef2671f5)
 
 ## Key Findings
 
